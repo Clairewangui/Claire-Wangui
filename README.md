@@ -11,3 +11,4 @@ Connect with me 🤝
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/claire-wangui-559a2134b)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Clairewangui)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_.laireliz._/)
