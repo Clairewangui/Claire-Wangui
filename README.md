@@ -1,4 +1,3 @@
-# Claire-Wangui
 
 # Hey👋, I am Claire Wangui 
 🔍 A passionate Data scientist/Analyst from Nairobi, Kenya
