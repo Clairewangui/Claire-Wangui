@@ -1,4 +1,4 @@
-
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 # Hey👋, I am Claire Wangui 
 🔍 A passionate Data scientist/Analyst from Nairobi, Kenya
 - 📊 I work with data to uncover insights,  tell stories and drive decisions.
